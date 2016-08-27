@@ -1,14 +1,10 @@
-# Arabic-Real
+# all_wazer
 
 # developers المطورين
 
-@Omar_Real
+@HM_56
 
-@Mohammedzedan 
-
-@ALNAZEXR
-
-@X_A_A
+@abo_shosho98
 
 
 # التنصيب
@@ -20,8 +16,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/Arabic-Bot/Real-Arab.git -b supergroups
-cd TeleSeed
+git clone https://github.com/walid55/all_wazer1.git -b supergroups
+cd all_wazer1
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -30,30 +26,26 @@ chmod +x launch.sh
  على السيرفر VPS
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/Arabic-Bot/Real-Arab.git -b supergroups && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone  https://github.com/walid55/all_wazer1.git.git -b supergroups && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
 
-### Realm configuration
+### all_wazer1 configuration
 
 طريقة جعل نفسك المطوور الوحيد في البوت
 
 افتح مجلد ال DETA وقم بوضع الايدي الخاص بك
 ```
   sudo_users = {
-    110626080,
-    103649648,
-    111020322,
-    0,
+    188248946,
+    262337203,
+    
+ 
     YourID
   }
 ```
 
 # نتمنى لكم تنصيب ممتع :)
 
-# القنوات الخاصة
 
-@linuxch
-
-@iq_dev8
