@@ -1,9 +1,9 @@
 --[[
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY OmarReal                       ▀▄ ▄▀ 
-▀▄ ▄▀     BY OmarReal (Omar_Real)          ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY OmarReal              ▀▄ ▄▀   
+▀▄ ▄▀    BY abo_shosho98                       ▀▄ ▄▀ 
+▀▄ ▄▀     BY OmarReal (abo_shosho98)          ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY abo_shosho98              ▀▄ ▄▀   
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -85,10 +85,11 @@ function run(msg, matches)
 ◼️ - /انستا : + يوزر : يستعمل لجلب معلومات حساب الانستا مع الصور
 ◼️ - /اصنع مجموعة : لصنع مجموعة
 ➖🔸➖🔹➖🔸➖🔹➖
- 👾 - Dev - @Omar_Real
- 👾 - Dev - @ALNAZEXR
- 👾 - Dev - @Mohammedzedan
- 👾 - Dev - @X_A_A
+ 👾 - Dev - @abo_shosho98
+ 
+ ااطلب البوت من كروب الدعم 
+
+https://telegram.me/joinchat/CgJAOj8AzQADEPGYx-FbQA
  ]]
 
 end
